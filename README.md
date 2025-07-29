@@ -92,10 +92,4 @@ Saturday                 208 commits         ██░░░░░░░░░�
 Sunday                   426 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 
 
-</table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-</div>
