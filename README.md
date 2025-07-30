@@ -39,7 +39,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://ts4.tc.mm.bing.net/th/id/OIP-C.pxLRz2i3OX3QLDiM0XiZfAHaF9?w=474&h=381&c=7&bgcl=fffffe&r=0&o=6&pid=23.1" />
+<img align="right" width="88" src="https://baike.baidu.com/pic/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%AB%98%E6%96%AF%E6%9E%97/9902700/0/377adab44aed2e73c8647ebf8701a18b86d6fa90?fr=lemma&fromModule=lemma_content-image" />
 
 <p>&emsp;&emsp;嗨，你好，我是小吕同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
