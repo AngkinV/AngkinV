@@ -17,16 +17,9 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-<!--     <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp; -->
-<!--     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
     <a href="#"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://9i73.f2z.cn/tph3SU"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/1481910196"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- visitor -->
-<!--     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp; -->
-    <!-- wakatime -->    
-<!--     <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a> -->
-
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -46,7 +39,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="[https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png](https://ts4.tc.mm.bing.net/th/id/OIP-C.pxLRz2i3OX3QLDiM0XiZfAHaF9?w=474&h=381&c=7&bgcl=fffffe&r=0&o=6&pid=23.1)" />
 
 <p>&emsp;&emsp;嗨，你好，我是小吕同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
