@@ -39,7 +39,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://ts4.tc.mm.bing.net/th/id/OIP-C.pxLRz2i3OX3QLDiM0XiZfAHaF9?w=474&h=381&c=7&bgcl=fffffe&r=0&o=6&pid=23.1" />
 
 <p>&emsp;&emsp;嗨，你好，我是小吕同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
